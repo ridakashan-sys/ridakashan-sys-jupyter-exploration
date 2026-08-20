@@ -1,1 +1,2 @@
 # ridakashan-sys-jupyter-exploration
+This lab introduced me to github desktop which i was not aware about previously. The steps were pretty easy to understand and it made me realize how easy it is to use github Desktop. According to me the biggest advantage of github desktop is that it simplifies the process of uploading files to your GitHub repository, it provides a user-friendly interface to manage your repositories without using command-line tools. Github Desktop Creates a local copy of your repository on your computer.
